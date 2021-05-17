@@ -1,0 +1,8 @@
+D:\полина\ТИ\1 Лабораторная работа\lab\lab\bin\Debug\lab.dll
+D:\полина\ТИ\1 Лабораторная работа\lab\lab\bin\Debug\lab.pdb
+D:\полина\ТИ\1 Лабораторная работа\lab\lab\obj\Debug\lab.csprojAssemblyReference.cache
+D:\полина\ТИ\1 Лабораторная работа\lab\lab\obj\Debug\lab.csproj.GenerateResource.cache
+D:\полина\ТИ\1 Лабораторная работа\lab\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+D:\полина\ТИ\1 Лабораторная работа\lab\lab\obj\Debug\lab.dll
+D:\полина\ТИ\1 Лабораторная работа\lab\lab\obj\Debug\lab.pdb
+D:\полина\ТИ\1 Лабораторная работа\lab\lab\obj\Debug\lab.Jel.resources
